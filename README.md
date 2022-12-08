@@ -17,4 +17,4 @@ CodeReview 1: project workflow is set-up and try ome of the feature requirements
 ![GitHub Workflow Status Release](https://img.shields.io/github/workflow/status/Saw-Yu-Nandar/DevOps_gp_project/.github/workflows/main.yml/release?style=flat-square)
 
 # Software Engineering Methods
-![GitHub Workflow Status Main](https://img.shields.io/github/workflows/status/Saw-Yu-Nandar/DevOps_gp_project/.github/workflows/main.yml/main?style=flat-square)
+![GitHub Workflow Status Main](https://img.shields.io/github/workflow/status/Saw-Yu-Nandar/DevOps_gp_project/main.yml/main?style=flat-square)
