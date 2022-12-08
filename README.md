@@ -1,8 +1,11 @@
-SET09623 2022-3 TR2 001 - DevOps
+SET09623 2022-2023 TR2 001 - DevOps
+-----------------------------------
 
 #Team Mebers: Saw Yu Nandar, Yoon Ei Shwe Zin, Su Hnin Lwin, Nang Shwe Sin Win
 
-CodeReview 1: Lab1 + Lab2
+CodeReview 1: project workflow is set-up and try ome of the feature requirements
+
+
 
 ![workflow](https://github.com/Saw-Yu-Nandar/DevOps_gp_project/actions/workflows/main.yml/badge.svg)
 
