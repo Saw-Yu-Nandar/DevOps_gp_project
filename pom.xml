@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.napier.sem</groupId>
-  <artifactId>seMethods</artifactId>
-  <version>0.1.0.1</version>
+  <groupId>devops.codereview</groupId>
+  <artifactId>codereview</artifactId>
+  <version>0.1.0.2</version>
 
   <dependencies>
     <dependency>
@@ -29,7 +29,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.napier.sem.App</mainClass>
+              <mainClass>devops.codereview.App</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
