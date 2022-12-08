@@ -11,4 +11,4 @@ CodeReview 1: Lab1 + Lab2
 [![Releases](https://img.shields.io/github/release/Saw-Yu-Nandar/DevOps_gp_project/all.svg?style=flat-square)](https://github.com/Saw-Yu-Nandar/DevOps_gp_project/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Saw-Yu-Nandar/DevOps_gp_project/.github/workflows/main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status release](https://img.shields.io/github/workflow/status/Saw-Yu-Nandar/DevOps_gp_project/.github/workflows/main.yml>/release?style=flat-square)
