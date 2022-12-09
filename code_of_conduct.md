@@ -5,26 +5,26 @@ As there are rules, the team members must follow the rules wholeheartedly.
 Code of Conduct for Group 
 ----------------------------
  
-Reule: 1 Everyone must attend the team meeting on time. 
+Rule: 1 Everyone must attend the team meeting on time. 
 Penalty
 ---------
 (2nd time) - no next time. 
 Buy a meal for the whole team. 
 
 
-Reule: 2 The team members need to discuss the idea actively in the team meeting. 
+Rule: 2 The team members need to discuss the idea actively in the team meeting. 
 Penalty
 ---------
 Inactive people must lead the meeting next time for the whole time. 
 
 
-Reule: 3 Individual team members must have responsibility for their own tasks. 
+Rule: 3 Individual team members must have responsibility for their own tasks. 
 Penalty
 ---------
 If not, there will be a report to the program leader and their contribution mark would be reduced. 
 
 
-Reule: 4 Report about causes of absence in the meeting 
+Rule: 4 Report about causes of absence in the meeting 
 Penalty
 --------- 
 If not, ask for help from their parents. 
@@ -36,49 +36,49 @@ Penalty
 If interrupted, there would be extra meeting minutes to specially scold the person. 
 
 
-Reule: 6 Individual team members must do an equal amount of work.   
+Rule: 6 Individual team members must do an equal amount of work.   
 Penalty
 ---------
 If not, members can discuss with each other about workload.  
 
 
-Reule: 7 Individual team members have to gives honest feedback if they have any trouble for example about the work load, they take responsibility. 
+Rule: 7 Individual team members have to gives honest feedback if they have any trouble for example about the work load, they take responsibility. 
 Penalty
 ---------
 If not, the silence must bear all the workload even if they have trouble. 
 
 
-Reule: 8 Team members must attend the extra meetings if needed. 
+Rule: 8 Team members must attend the extra meetings if needed. 
 Penalty
 ---------
 If not, other team members will find a way to contact the missing team member even if needed to call the parent to inquire. 
 
 
-Reule: 9 Team members need to finish their responsible tasks according to deadlines. 
+Rule: 9 Team members need to finish their responsible tasks according to deadlines. 
 Penalty
 ---------
 If not, ask the program leader to reduce the mark for contribution. 
 
 
-Reule: 10 The team member cannot have excuse time taken during meetings, for example going to drink water. 
+Rule: 10 The team member cannot have excuse time taken during meetings, for example going to drink water. 
 Penalty
 ---------
 If not, the person must give reason together, if possible, with evidence. 
 
 
-Reule: 11 The team members need to check their communicational platforms to get the notice of the team announcements on time. (Within 3 hour no reply)
+Rule: 11 The team members need to check their communicational platforms to get the notice of the team announcements on time. (Within 3 hour no reply)
 Penalty
 --------- 
 If not, the mark will be reduced on contribution. 
 
 
-Reule: 12 Every member needs to be polite and be formal to other “team members” which means no swearing. E.g., Think before speaking. 
+Rule: 12 Every member needs to be polite and be formal to other “team members” which means no swearing. E.g., Think before speaking. 
 Penalty
 ---------
 A repent letter must be sent to one of the team members. 
 
 
-Reule: 13 Jokes are not allowed when doing a serious team meeting, only during the meeting. 
+Rule: 13 Jokes are not allowed when doing a serious team meeting, only during the meeting. 
 Penalty
 ---------
 If the person jokes, they must write essays for their wrongdoing. 300words 
