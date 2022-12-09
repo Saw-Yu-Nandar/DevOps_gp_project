@@ -1,4 +1,4 @@
 FROM openjdk:19
-COPY ./target/classes/devops /tmp/devops
+COPY ./target/codereview-0.1.0.2-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "devops.codereview.App"]
+ENTRYPOINT ["java", "-jar", "codereview-0.1.0.2-jar-with-dependencies.jar"]
